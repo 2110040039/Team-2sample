@@ -7,5 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FoundlyApplication {
     public static void main(String[] args) {
         SpringApplication.run(FoundlyApplication.class, args);
+        boolean f=true;
     }
 }
