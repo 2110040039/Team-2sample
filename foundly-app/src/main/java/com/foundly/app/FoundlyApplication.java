@@ -9,6 +9,5 @@ public class FoundlyApplication {
         SpringApplication.run(FoundlyApplication.class, args);
         boolean f=true;
         int t=10;
-        int hello=5;
     }
 }
